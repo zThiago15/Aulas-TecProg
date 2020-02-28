@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title> Texto de teste! </title>
+<title> Texto! </title>
 </head>
 
 <body>
