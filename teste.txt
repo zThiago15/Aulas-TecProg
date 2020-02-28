@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<p> Paragraph! </p>
+<p> Paragraph </p>
 </body>
 
 </html>
